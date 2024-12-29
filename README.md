@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Dagmawit Tibebu</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
-<img align="right" width="400" alt="coding" src="https://www.pinterest.com/pin/281543724882435/">
+<center>
+  <img 
+    width="400" 
+    alt="coding" 
+    src="https://i.pinimg.com/736x/1e/e6/54/1ee654f04d664cf6d985c4fd8996a38e.jpg" 
+    style="border: 5px solid #f0a500; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+</center>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dagm24&label=Profile%20views&color=0e75b6&style=flat" alt="dagm24" /> </p>
 
